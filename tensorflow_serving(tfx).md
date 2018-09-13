@@ -1,7 +1,7 @@
 
 
 # TFX paper
-
+[TFX: A TensorFlow-Based Production-Scale Machine Learning Platform](http://www.kdd.org/kdd2017/papers/view/tfx-a-tensorflow-based-production-scale-machine-learning-platform)
 
 
 ### Feature stats

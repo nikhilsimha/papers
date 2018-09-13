@@ -10,7 +10,6 @@
     * quantiles
     * histograms
     * the mean and standard deviation
-
 * discrete features 
     * top-K values by frequency.
 * stats on configurable slices of the data
